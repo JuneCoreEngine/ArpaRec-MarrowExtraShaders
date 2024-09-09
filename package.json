@@ -1,0 +1,17 @@
+{
+    "name": "com.arparec.marrow.extrashaders",
+	"version": "1.0.0",
+    "displayName": "Marrow Extra Shaders",
+    "description": "Extra shader graph shaders for use in the Marrow SDK.",
+	"dependencies": {
+    },
+	"keywords": [
+		"slz",
+		"arparec",
+		"shaders"
+	],
+	"author": {
+		"name": "ArpaRec"
+	},
+	"hideInEditor": false
+}
